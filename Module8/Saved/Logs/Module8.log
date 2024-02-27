@@ -5426,3 +5426,774 @@ Make sure 'BP_Blocks_C' has been compiled for  Set Playing
 [2024.02.27-13.35.08:945][401]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/My_map01FDABB04A132B1DF212F7822EFD7704.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/Map/My_map.umap'
 [2024.02.27-13.35.09:048][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/My_map_BuiltData" FILE="D:/Home Work/UE_Home_Work/Module8/Content/Map/My_map_BuiltData.uasset" SILENT=true
 [2024.02.27-13.35.09:061][401]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/My_map_BuiltData530A959C45E43E5A9B6F42A3C4036BC1.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/Map/My_map_BuiltData.uasset'
+[2024.02.27-13.42.56:317][148]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.02.27-13.42.56:317][148]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.02.27-13.43.09:080][ 13]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.27-13.43.12:589][384]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.02.27-13.43.12:589][384]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2024.02.27-13.43.23:781][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Bonus" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Bonus.uasset" SILENT=true
+[2024.02.27-13.43.23:786][427]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_BonusB6C65B194841738CDFCA52A5F0CB891F.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Bonus.uasset'
+[2024.02.27-13.43.37:131][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/BP_Bonus.BP_Bonus
+[2024.02.27-13.44.44:949][988]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.44.44:951][988]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Speed" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Speed
+[2024.02.27-13.44.44:951][988]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Set Direction
+[2024.02.27-13.44.44:951][988]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Direction
+[2024.02.27-13.44.44:951][988]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Direction
+[2024.02.27-13.44.44:951][988]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Speed  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.44.44:951][988]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.44.44:951][988]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.44.44:951][988]LogBlueprint: Error: [Compiler BP_Bonus] Could not find an event-dispatcher named "OnDead" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Call OnDead
+[2024.02.27-13.44.44:952][988]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.44.45:170][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.02.27-13.44.45:176][988]LogBlueprint: Warning: [Compiler BP_Bonus] [9674,47] Compile of BP_Bonus failed. 5 Fatal Issue(s) 4 Warning(s) [in 227 ms] (/Game/BP/BP_Bonus.BP_Bonus)
+[2024.02.27-13.45.20:518][986]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.45.20:520][986]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Speed" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Speed
+[2024.02.27-13.45.20:520][986]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Set Direction
+[2024.02.27-13.45.20:520][986]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Direction
+[2024.02.27-13.45.20:521][986]LogBlueprint: Warning: [Compiler BP_Bonus] Could not find a variable named "Direction" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Get Direction
+[2024.02.27-13.45.20:521][986]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Speed  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.45.20:521][986]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.45.20:521][986]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.45.20:521][986]LogBlueprint: Error: [Compiler BP_Bonus] Could not find an event-dispatcher named "OnDead" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Call OnDead
+[2024.02.27-13.45.20:521][986]LogBlueprint: Error: [Compiler BP_Bonus] The property associated with  Direction  could not be found in '/Game/BP/BP_Bonus.BP_Bonus_C'
+[2024.02.27-13.45.20:730][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2024.02.27-13.45.20:739][986]LogBlueprint: Warning: [Compiler BP_Bonus] [9710,03] Compile of BP_Bonus failed. 5 Fatal Issue(s) 4 Warning(s) [in 220 ms] (/Game/BP/BP_Bonus.BP_Bonus)
+[2024.02.27-13.45.36:231][700]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.02.27-13.45.39:425][872]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.27-13.45.39:447][872]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.27-13.45.51:405][535]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Direction' instances, change its type, and recompile?
+[2024.02.27-13.45.53:742][662]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.27-13.45.53:763][662]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.27-13.45.55:532][762]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.45.55:535][762]LogBlueprint: Error: [Compiler BP_Bonus] Could not find an event-dispatcher named "OnDead" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Call OnDead
+[2024.02.27-13.45.55:745][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.02.27-13.45.55:753][762]LogBlueprint: Warning: [Compiler BP_Bonus] [9745,05] Compile of BP_Bonus failed. 1 Fatal Issue(s) 0 Warning(s) [in 220 ms] (/Game/BP/BP_Bonus.BP_Bonus)
+[2024.02.27-13.47.14:813][206]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.47.14:816][206]LogBlueprint: Error: [Compiler BP_Bonus] Could not find an event-dispatcher named "OnDead" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Call OnDead
+[2024.02.27-13.47.15:034][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2024.02.27-13.47.15:041][206]LogBlueprint: Warning: [Compiler BP_Bonus] [9824,33] Compile of BP_Bonus failed. 1 Fatal Issue(s) 0 Warning(s) [in 228 ms] (/Game/BP/BP_Bonus.BP_Bonus)
+[2024.02.27-13.47.30:037][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Bonus" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/Bonus.uasset" SILENT=true
+[2024.02.27-13.47.30:062][995]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/Bonus9781BA684DC4E8219B632E89FD3B2547.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/Bonus.uasset'
+[2024.02.27-13.47.47:349][910]BlueprintLog: New page: Compile BP_Ball
+[2024.02.27-13.47.47:578][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2024.02.27-13.47.51:612][120]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.47.51:615][120]LogBlueprint: Error: [Compiler BP_Bonus] Could not find an event-dispatcher named "OnDead" in 'BP_Bonus_C'.
+Make sure 'BP_Bonus_C' has been compiled for  Call OnDead
+[2024.02.27-13.47.51:827][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2024.02.27-13.47.51:837][120]LogBlueprint: Warning: [Compiler BP_Bonus] [9861,13] Compile of BP_Bonus failed. 1 Fatal Issue(s) 0 Warning(s) [in 223 ms] (/Game/BP/BP_Bonus.BP_Bonus)
+[2024.02.27-13.48.03:221][761]BlueprintLog: New page: Compile BP_Bonus
+[2024.02.27-13.48.03:431][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2024.02.27-13.48.04:770][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Bonus" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Bonus.uasset" SILENT=true
+[2024.02.27-13.48.04:788][830]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_BonusC7DA759A41130BBD4B3602AE438EF42F.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Bonus.uasset'
+[2024.02.27-13.48.11:945][233]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.48.12:261][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2024.02.27-13.48.36:278][512]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.48.36:281][512]LogBlueprint: Warning: [Compiler BP_Blocks] 'BP Bonus' does not inherit from 'Static Mesh Component' ( Cast To BP_Bonus  would always fail).
+[2024.02.27-13.48.36:611][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2024.02.27-13.48.36:859][512]LogBlueprint: Warning: [Compiler BP_Blocks] [9906,15] Compile of BP_Blocks successful, but with 1 Warning(s) [in 581 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-13.48.41:268][760]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.48.41:600][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2024.02.27-13.51.24:665][910]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.51.25:013][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.02.27-13.54.27:884][219]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.54.27:891][219]LogBlueprint: Error: [Compiler BP_Blocks] The type of  Object  is undetermined.  Connect something to  Cast To BP_Bonus  to imply a specific type.
+[2024.02.27-13.54.27:893][219]LogBlueprint: Error: [Compiler BP_Blocks] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.02.27-13.54.28:151][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.02.27-13.54.28:166][219]LogBlueprint: Warning: [Compiler BP_Blocks] [0257,46] Compile of BP_Blocks failed. 2 Fatal Issue(s) 0 Warning(s) [in 281 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-13.55.36:928][230]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.55.37:183][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2024.02.27-13.55.42:490][509]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.55.42:825][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2024.02.27-13.56.09:954][914]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.56.10:313][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.02.27-13.57.16:096][583]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.57.16:103][583]LogBlueprint: Error: [Compiler BP_Blocks] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.02.27-13.57.16:368][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.02.27-13.57.16:383][583]LogBlueprint: Warning: [Compiler BP_Blocks] [0425,68] Compile of BP_Blocks failed. 1 Fatal Issue(s) 0 Warning(s) [in 286 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-13.58.03:308][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-13.58.03:347][246]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_BlocksB0ABC6C14F9FE6F0F967C890EF6E8E7B.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-13.58.52:629][889]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.58.52:883][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.02.27-13.59.58:485][610]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-13.59.58:835][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.02.27-14.00.07:385][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.02.27-14.00.08:930][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.27-14.00.10:534][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.00.10:642][169]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.00.10:666][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.00.10:666][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.00.10:666][169]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:00:10)
+[2024.02.27-14.00.10:666][169]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.00.10:674][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007854s)
+[2024.02.27-14.00.10:674][169]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.00.10:674][169]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2024.02.27-14.00.10:674][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008580s)
+[2024.02.27-14.00.10:719][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.02.27-14.00.10:738][169]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.00.10:755][169]LogInit: FAudioDevice initialized.
+[2024.02.27-14.00.10:794][169]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.00.10:801][169]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.00.10
+[2024.02.27-14.00.10:801][169]LogWorld: Bringing up level for play took: 0.005622
+[2024.02.27-14.00.10:813][169]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.00.10:814][169]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,874
+[2024.02.27-14.00.10:814][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.00.44:105][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.00.44:105][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.00.44:177][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.00.44:178][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.00.44:224][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.00.44:229][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.02.27-14.00.44:265][512]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2024.02.27-14.00.44:975][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.02.13:262][785]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.02.13:276][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.02.13:276][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.02.13:276][785]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:02:13)
+[2024.02.27-14.02.13:276][785]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.02.13:284][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007875s)
+[2024.02.27-14.02.13:285][785]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.02.13:285][785]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2024.02.27-14.02.13:285][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008787s)
+[2024.02.27-14.02.13:330][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.02.27-14.02.13:348][785]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.02.13:364][785]LogInit: FAudioDevice initialized.
+[2024.02.27-14.02.13:414][785]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.02.13:430][785]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.02.13
+[2024.02.27-14.02.13:431][785]LogWorld: Bringing up level for play took: 0.013334
+[2024.02.27-14.02.13:443][785]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.02.13:444][785]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,496
+[2024.02.27-14.02.13:444][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.02.30:062][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.27-14.02.44:342][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.02.44:342][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.02.44:402][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.02.44:402][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.02.44:446][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.02.44:450][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.27-14.02.44:478][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2024.02.27-14.02.47:216][262]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.02.47:534][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.02.27-14.02.48:768][324]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.02.48:791][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.02.48:791][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.02.48:791][324]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:02:48)
+[2024.02.27-14.02.48:791][324]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.02.48:799][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007927s)
+[2024.02.27-14.02.48:799][324]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.02.48:800][324]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2024.02.27-14.02.48:800][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008614s)
+[2024.02.27-14.02.48:846][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.02.27-14.02.48:865][324]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.02.48:879][324]LogInit: FAudioDevice initialized.
+[2024.02.27-14.02.48:929][324]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.02.48:939][324]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.02.48
+[2024.02.27-14.02.48:939][324]LogWorld: Bringing up level for play took: 0.007605
+[2024.02.27-14.02.48:951][324]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.02.48:951][324]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 1,011
+[2024.02.27-14.02.48:951][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.03.06:552][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.03.06:552][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.03.06:607][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.03.06:607][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.03.06:669][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.03.06:674][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.02.27-14.03.06:706][556]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2024.02.27-14.05.44:099][886]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.05.44:451][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2024.02.27-14.05.47:187][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.05.47:207][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.05.47:207][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.05.47:207][ 57]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:05:47)
+[2024.02.27-14.05.47:207][ 57]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.05.47:214][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007454s)
+[2024.02.27-14.05.47:215][ 57]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.05.47:215][ 57]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2024.02.27-14.05.47:215][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008102s)
+[2024.02.27-14.05.47:261][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.02.27-14.05.47:278][ 57]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.05.47:293][ 57]LogInit: FAudioDevice initialized.
+[2024.02.27-14.05.47:333][ 57]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.05.47:344][ 57]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.05.47
+[2024.02.27-14.05.47:344][ 57]LogWorld: Bringing up level for play took: 0.009068
+[2024.02.27-14.05.47:357][ 57]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.05.47:358][ 57]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,582
+[2024.02.27-14.05.47:358][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.06.04:742][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.06.04:742][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.06.04:800][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.06.04:800][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.06.04:859][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.06.04:863][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.27-14.06.04:909][634]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2024.02.27-14.06.10:307][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.06.31:565][336]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.06.31:923][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.02.27-14.06.58:523][356]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.06.58:901][356]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.02.27-14.07.00:354][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.07.00:394][480]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_BlocksBACB27A345F523641CC339A705497B6D.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.08.13:073][890]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.08.13:407][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.02.27-14.08.14:604][995]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.08.14:626][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.08.14:626][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.08.14:626][995]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:08:14)
+[2024.02.27-14.08.14:627][995]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.08.14:635][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007673s)
+[2024.02.27-14.08.14:635][995]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.08.14:635][995]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2024.02.27-14.08.14:635][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008409s)
+[2024.02.27-14.08.14:683][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2024.02.27-14.08.14:701][995]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.08.14:717][995]LogInit: FAudioDevice initialized.
+[2024.02.27-14.08.14:756][995]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.08.14:772][995]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.08.14
+[2024.02.27-14.08.14:773][995]LogWorld: Bringing up level for play took: 0.014366
+[2024.02.27-14.08.14:786][995]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.08.14:787][995]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,847
+[2024.02.27-14.08.14:787][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.08.25:452][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.08.25:452][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.08.25:514][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.08.25:515][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.08.25:577][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.08.25:582][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.02.27-14.08.25:626][683]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2024.02.27-14.08.26:960][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.08.40:742][580]LogEditorTransaction: Undo Delete current selection
+[2024.02.27-14.08.41:408][608]LogEditorTransaction: Undo Delete current selection
+[2024.02.27-14.08.42:335][654]LogEditorTransaction: Undo Create Pin Link
+[2024.02.27-14.08.43:657][732]LogEditorTransaction: Undo Move Nodes
+[2024.02.27-14.08.44:233][757]LogEditorTransaction: Undo Add Node
+[2024.02.27-14.08.44:599][770]LogEditorTransaction: Undo Delete current selection
+[2024.02.27-14.08.44:897][779]LogEditorTransaction: Undo Set Scale
+[2024.02.27-14.09.25:202][600]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.09.25:585][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2024.02.27-14.09.28:395][857]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.09.28:417][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.09.28:417][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.09.28:417][857]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:09:28)
+[2024.02.27-14.09.28:417][857]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.09.28:424][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007436s)
+[2024.02.27-14.09.28:425][857]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.09.28:425][857]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2024.02.27-14.09.28:425][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008216s)
+[2024.02.27-14.09.28:469][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.02.27-14.09.28:487][857]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.09.28:503][857]LogInit: FAudioDevice initialized.
+[2024.02.27-14.09.28:542][857]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.09.28:557][857]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.09.28
+[2024.02.27-14.09.28:558][857]LogWorld: Bringing up level for play took: 0.012025
+[2024.02.27-14.09.28:570][857]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.09.28:571][857]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,631
+[2024.02.27-14.09.28:571][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.09.42:291][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.09.42:291][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.09.42:340][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.09.42:340][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.09.42:398][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.09.42:403][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.02.27-14.09.42:440][401]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2024.02.27-14.09.43:457][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.09.46:926][869]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.09.47:247][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.02.27-14.09.48:017][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.09.48:060][909]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks42B25FE34B72DDDA97F902874222C90E.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.09.48:538][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.02.27-14.09.50:483][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.09.50:607][166]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.09.50:630][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.09.50:631][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.09.50:631][166]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:09:50)
+[2024.02.27-14.09.50:631][166]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.09.50:638][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007400s)
+[2024.02.27-14.09.50:638][166]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.09.50:638][166]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2024.02.27-14.09.50:638][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008019s)
+[2024.02.27-14.09.50:685][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.02.27-14.09.50:704][166]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.09.50:719][166]LogInit: FAudioDevice initialized.
+[2024.02.27-14.09.50:763][166]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.09.50:773][166]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.09.50
+[2024.02.27-14.09.50:773][166]LogWorld: Bringing up level for play took: 0.008555
+[2024.02.27-14.09.50:787][166]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.09.50:788][166]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,848
+[2024.02.27-14.09.50:788][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.10.03:970][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.10.03:970][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.10.04:015][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.10.04:015][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.10.04:080][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.10.04:085][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.02.27-14.10.04:122][741]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2024.02.27-14.10.06:363][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.11.29:327][773]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.11.29:836][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.02.27-14.11.38:742][401]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.11.38:763][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.11.38:763][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.11.38:763][401]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:11:38)
+[2024.02.27-14.11.38:763][401]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.11.38:771][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007555s)
+[2024.02.27-14.11.38:771][401]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.11.38:771][401]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2024.02.27-14.11.38:771][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008204s)
+[2024.02.27-14.11.38:816][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.02.27-14.11.38:835][401]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.11.38:851][401]LogInit: FAudioDevice initialized.
+[2024.02.27-14.11.38:892][401]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.11.38:932][401]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.11.38
+[2024.02.27-14.11.38:936][401]LogWorld: Bringing up level for play took: 0.041316
+[2024.02.27-14.11.38:949][401]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.11.38:949][401]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 1,009
+[2024.02.27-14.11.38:950][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.11.51:992][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.11.51:992][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.11.52:051][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.11.52:051][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.11.52:114][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.11.52:119][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.27-14.11.52:179][899]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2024.02.27-14.11.53:804][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.12.01:530][733]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.12.01:882][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.02.27-14.12.05:893][992]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.12.05:915][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.05:915][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.12.05:915][992]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:12:05)
+[2024.02.27-14.12.05:915][992]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.12.05:922][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007503s)
+[2024.02.27-14.12.05:922][992]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.12.05:922][992]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2024.02.27-14.12.05:922][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008144s)
+[2024.02.27-14.12.05:967][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2024.02.27-14.12.05:985][992]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.12.06:000][992]LogInit: FAudioDevice initialized.
+[2024.02.27-14.12.06:039][992]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.12.06:077][992]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.12.06
+[2024.02.27-14.12.06:080][992]LogWorld: Bringing up level for play took: 0.039650
+[2024.02.27-14.12.06:093][992]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.12.06:094][992]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,154
+[2024.02.27-14.12.06:094][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.24:972][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.24:974][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.12.25:036][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.12.25:037][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.25:092][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.12.25:097][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.27-14.12.25:156][110]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2024.02.27-14.12.31:773][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.12.33:389][947]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.12.33:722][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.02.27-14.12.42:814][722]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.12.43:206][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.02.27-14.12.44:432][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.12.44:485][805]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks4729623F470148EF342882BC2685640A.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.12.46:031][968]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.12.46:053][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.46:053][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.12.46:054][968]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:12:46)
+[2024.02.27-14.12.46:054][968]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.12.46:060][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007369s)
+[2024.02.27-14.12.46:062][968]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.12.46:062][968]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2024.02.27-14.12.46:062][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008000s)
+[2024.02.27-14.12.46:108][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.02.27-14.12.46:125][968]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.12.46:140][968]LogInit: FAudioDevice initialized.
+[2024.02.27-14.12.46:184][968]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.12.46:189][968]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.12.46
+[2024.02.27-14.12.46:190][968]LogWorld: Bringing up level for play took: 0.004862
+[2024.02.27-14.12.46:202][968]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.12.46:203][968]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,263
+[2024.02.27-14.12.46:203][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.59:293][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.59:293][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.12.59:350][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.12.59:350][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.12.59:419][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.12.59:424][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.02.27-14.12.59:485][428]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2024.02.27-14.13.01:143][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.13.23:143][734]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.13.23:495][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.02.27-14.13.24:907][845]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.13.24:928][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.13.24:928][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.13.24:928][845]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:13:24)
+[2024.02.27-14.13.24:928][845]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.13.24:936][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007713s)
+[2024.02.27-14.13.24:937][845]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.13.24:937][845]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2024.02.27-14.13.24:937][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008348s)
+[2024.02.27-14.13.24:982][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.02.27-14.13.24:999][845]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.13.25:014][845]LogInit: FAudioDevice initialized.
+[2024.02.27-14.13.25:063][845]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.13.25:073][845]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.13.25
+[2024.02.27-14.13.25:074][845]LogWorld: Bringing up level for play took: 0.007813
+[2024.02.27-14.13.25:085][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.13.25:086][845]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 1,146
+[2024.02.27-14.13.25:086][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.13.43:828][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.13.43:828][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.13.43:880][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.13.43:882][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.13.43:939][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.13.43:945][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.02.27-14.13.44:002][952]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2024.02.27-14.13.47:100][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.14.11:193][552]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.14.11:580][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.02.27-14.14.12:604][627]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.14.12:625][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.14.12:625][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.14.12:625][627]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:14:12)
+[2024.02.27-14.14.12:625][627]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.14.12:632][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007583s)
+[2024.02.27-14.14.12:634][627]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.14.12:634][627]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2024.02.27-14.14.12:634][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008271s)
+[2024.02.27-14.14.12:681][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2024.02.27-14.14.12:698][627]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.14.12:714][627]LogInit: FAudioDevice initialized.
+[2024.02.27-14.14.12:748][627]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.14.12:754][627]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.14.12
+[2024.02.27-14.14.12:754][627]LogWorld: Bringing up level for play took: 0.005450
+[2024.02.27-14.14.12:767][627]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.14.12:768][627]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,828
+[2024.02.27-14.14.12:768][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.15.00:558][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.15.00:558][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.15.00:605][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.15.00:605][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.15.00:662][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.15.00:667][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.02.27-14.15.00:726][299]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2024.02.27-14.15.06:259][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.15.08:777][979]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.15.09:114][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.02.27-14.15.10:079][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.15.10:102][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.15.10:102][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.15.10:102][ 41]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:15:10)
+[2024.02.27-14.15.10:102][ 41]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.15.10:109][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007700s)
+[2024.02.27-14.15.10:110][ 41]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.15.10:110][ 41]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2024.02.27-14.15.10:110][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008348s)
+[2024.02.27-14.15.10:156][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.02.27-14.15.10:173][ 41]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.15.10:188][ 41]LogInit: FAudioDevice initialized.
+[2024.02.27-14.15.10:233][ 41]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.15.10:238][ 41]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.15.10
+[2024.02.27-14.15.10:239][ 41]LogWorld: Bringing up level for play took: 0.005119
+[2024.02.27-14.15.10:251][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.15.10:252][ 41]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,312
+[2024.02.27-14.15.10:252][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.16.01:327][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.16.01:327][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.16.01:368][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.16.01:368][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.16.01:426][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.16.01:431][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.27-14.16.01:492][141]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2024.02.27-14.16.03:153][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.16.20:963][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.16.21:007][ 96]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks08781A09487596F80747B79E7175FDE7.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.16.22:170][217]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.16.22:498][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2024.02.27-14.16.49:226][729]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.16.49:248][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.16.49:248][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.16.49:248][729]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:16:49)
+[2024.02.27-14.16.49:248][729]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.16.49:256][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007622s)
+[2024.02.27-14.16.49:256][729]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.16.49:256][729]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2024.02.27-14.16.49:256][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008254s)
+[2024.02.27-14.16.49:300][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.02.27-14.16.49:318][729]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.16.49:332][729]LogInit: FAudioDevice initialized.
+[2024.02.27-14.16.49:376][729]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.16.49:388][729]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.16.49
+[2024.02.27-14.16.49:389][729]LogWorld: Bringing up level for play took: 0.010944
+[2024.02.27-14.16.49:402][729]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.16.49:403][729]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,537
+[2024.02.27-14.16.49:404][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.17.09:002][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.17.09:002][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.17.09:060][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.17.09:060][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.17.09:126][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.17.09:132][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.02.27-14.17.09:172][795]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2024.02.27-14.17.10:478][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.17.21:994][121]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.17.22:318][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.02.27-14.17.23:416][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.17.23:455][194]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks4B02CA0049B6A3B10FBA789A2A439DB6.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.17.38:877][797]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.17.39:210][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.02.27-14.17.39:668][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.17.39:707][804]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks759D2A1848FD970AA34DDD9D5595F430.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.18.18:964][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2024.02.27-14.18.18:964][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/My_map" FILE="D:/Home Work/UE_Home_Work/Module8/Saved/Autosaves/Game/Map/My_map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.27-14.18.19:234][  4]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/My_map_Auto47824F17B4E9673E4AFCABC8F293ED36A.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Saved/Autosaves/Game/Map/My_map_Auto4.umap'
+[2024.02.27-14.18.19:236][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/My_map' took 0.320
+[2024.02.27-14.18.19:236][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.320
+[2024.02.27-14.18.19:239][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Ball] ([1] browsable assets)...
+[2024.02.27-14.18.19:254][  4]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Ball.BP_Ball]
+[2024.02.27-14.18.19:254][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Ball]
+[2024.02.27-14.18.19:254][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Ball" FILE="D:/Home Work/UE_Home_Work/Module8/Saved/Autosaves/Game/BP/BP_Ball_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.27-14.18.19:284][  4]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Ball_Auto43590929142C86522493F94BC5B4964F4.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Saved/Autosaves/Game/BP/BP_Ball_Auto4.uasset'
+[2024.02.27-14.18.19:284][  4]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.02.27-14.19.39:867][662]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.19.40:189][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.02.27-14.19.42:671][890]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.19.42:693][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.19.42:693][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.19.42:694][890]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:19:42)
+[2024.02.27-14.19.42:694][890]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.19.42:702][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007854s)
+[2024.02.27-14.19.42:702][890]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.19.42:702][890]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2024.02.27-14.19.42:702][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008579s)
+[2024.02.27-14.19.42:746][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2024.02.27-14.19.42:763][890]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.19.42:779][890]LogInit: FAudioDevice initialized.
+[2024.02.27-14.19.42:830][890]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.19.42:844][890]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.19.42
+[2024.02.27-14.19.42:845][890]LogWorld: Bringing up level for play took: 0.011727
+[2024.02.27-14.19.42:858][890]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.19.42:859][890]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,919
+[2024.02.27-14.19.42:859][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.20.01:706][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.20.01:707][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.20.01:743][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.20.01:744][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.20.01:801][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.20.01:806][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.02.27-14.20.01:843][930]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2024.02.27-14.20.07:302][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.20.26:370][564]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.20.26:703][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.02.27-14.20.27:977][666]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.20.28:000][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.20.28:000][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.20.28:000][666]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:20:28)
+[2024.02.27-14.20.28:000][666]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.20.28:007][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007370s)
+[2024.02.27-14.20.28:007][666]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.20.28:007][666]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2024.02.27-14.20.28:007][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.007999s)
+[2024.02.27-14.20.28:050][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.02.27-14.20.28:068][666]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.20.28:083][666]LogInit: FAudioDevice initialized.
+[2024.02.27-14.20.28:125][666]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.20.28:136][666]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.20.28
+[2024.02.27-14.20.28:137][666]LogWorld: Bringing up level for play took: 0.009541
+[2024.02.27-14.20.28:148][666]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.20.28:149][666]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,209
+[2024.02.27-14.20.28:149][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.21.16:789][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.21.16:789][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.21.16:824][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.21.16:824][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.21.16:870][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.21.16:875][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.02.27-14.21.16:905][427]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2024.02.27-14.21.41:167][154]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.21.41:488][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.02.27-14.21.45:885][604]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.21.45:906][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.21.45:906][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.21.45:906][604]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:21:45)
+[2024.02.27-14.21.45:906][604]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.21.45:914][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007750s)
+[2024.02.27-14.21.45:915][604]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.21.45:915][604]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2024.02.27-14.21.45:915][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008418s)
+[2024.02.27-14.21.45:962][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2024.02.27-14.21.45:979][604]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.21.45:994][604]LogInit: FAudioDevice initialized.
+[2024.02.27-14.21.46:037][604]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.21.46:052][604]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.21.46
+[2024.02.27-14.21.46:052][604]LogWorld: Bringing up level for play took: 0.012043
+[2024.02.27-14.21.46:065][604]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.21.46:066][604]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,126
+[2024.02.27-14.21.46:066][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.22.01:139][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.22.01:139][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.22.01:183][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.22.01:183][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.22.01:227][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.22.01:232][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.02.27-14.22.01:263][372]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2024.02.27-14.22.26:734][210]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.22.26:740][210]LogBlueprint: Error: [Compiler BP_Blocks] The type of  Object  is undetermined.  Connect something to  Cast To KillZVolume  to imply a specific type.
+[2024.02.27-14.22.26:742][210]LogBlueprint: Error: [Compiler BP_Blocks] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.02.27-14.22.26:979][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.02.27-14.22.26:987][210]LogBlueprint: Warning: [Compiler BP_Blocks] [1936,28] Compile of BP_Blocks failed. 2 Fatal Issue(s) 0 Warning(s) [in 253 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.23.35:838][376]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.23.35:845][376]LogBlueprint: Warning: [Compiler BP_Blocks] 'Kill ZVolume' does not inherit from 'Static Mesh Component' ( Cast To KillZVolume  would always fail).
+[2024.02.27-14.23.36:131][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2024.02.27-14.23.36:383][376]LogBlueprint: Warning: [Compiler BP_Blocks] [2005,68] Compile of BP_Blocks successful, but with 1 Warning(s) [in 544 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.23.43:676][166]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.23.43:682][166]LogBlueprint: Warning: [Compiler BP_Blocks] 'Kill ZVolume' does not inherit from 'Static Mesh Component' ( Cast To KillZVolume  would always fail).
+[2024.02.27-14.23.43:683][166]LogBlueprint: Error: [Compiler BP_Blocks] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.02.27-14.23.43:939][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.02.27-14.23.43:948][166]LogBlueprint: Warning: [Compiler BP_Blocks] [2013,24] Compile of BP_Blocks failed. 1 Fatal Issue(s) 1 Warning(s) [in 271 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.24.00:262][ 92]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.24.00:268][ 92]LogBlueprint: Warning: [Compiler BP_Blocks] 'Kill ZVolume' does not inherit from 'Static Mesh Component' ( Cast To KillZVolume  would always fail).
+[2024.02.27-14.24.00:268][ 92]LogBlueprint: Error: [Compiler BP_Blocks] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.02.27-14.24.00:483][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2024.02.27-14.24.00:493][ 92]LogBlueprint: Warning: [Compiler BP_Blocks] [2029,79] Compile of BP_Blocks failed. 1 Fatal Issue(s) 1 Warning(s) [in 230 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.25.19:541][535]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.25.19:548][535]LogBlueprint: Warning: [Compiler BP_Blocks] 'Kill ZVolume' does not inherit from 'Static Mesh Component' ( Cast To KillZVolume  would always fail).
+[2024.02.27-14.25.19:837][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.02.27-14.25.20:088][535]LogBlueprint: Warning: [Compiler BP_Blocks] [2109,38] Compile of BP_Blocks successful, but with 1 Warning(s) [in 546 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.25.27:962][395]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.25.28:296][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2024.02.27-14.26.02:148][ 94]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.26.02:155][ 94]LogBlueprint: Error: [Compiler BP_Blocks] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2024.02.27-14.26.02:409][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.02.27-14.26.02:417][ 94]LogBlueprint: Warning: [Compiler BP_Blocks] [2151,71] Compile of BP_Blocks failed. 1 Fatal Issue(s) 0 Warning(s) [in 269 ms] (/Game/BP/BP_Blocks.BP_Blocks)
+[2024.02.27-14.26.17:659][894]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.26.17:951][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2024.02.27-14.26.20:113][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.26.20:135][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.26.20:135][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.26.20:135][ 85]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:26:20)
+[2024.02.27-14.26.20:135][ 85]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.26.20:143][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007607s)
+[2024.02.27-14.26.20:143][ 85]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.26.20:143][ 85]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2024.02.27-14.26.20:143][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008338s)
+[2024.02.27-14.26.20:187][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2024.02.27-14.26.20:206][ 85]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.26.20:221][ 85]LogInit: FAudioDevice initialized.
+[2024.02.27-14.26.20:260][ 85]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.26.20:273][ 85]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.26.20
+[2024.02.27-14.26.20:274][ 85]LogWorld: Bringing up level for play took: 0.011061
+[2024.02.27-14.26.20:288][ 85]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.26.20:289][ 85]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map 0,349
+[2024.02.27-14.26.20:289][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.27.04:274][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.27.04:274][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.27.04:323][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.27.04:324][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.27.04:384][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.27.04:389][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.02.27-14.27.04:420][159]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2024.02.27-14.27.05:211][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.27.26:874][619]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.27.27:190][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.02.27-14.28.02:966][431]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.28.03:314][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2024.02.27-14.28.04:961][571]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.28.04:987][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.28.04:987][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.28.04:987][571]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:28:04)
+[2024.02.27-14.28.04:987][571]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.28.04:994][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007573s)
+[2024.02.27-14.28.04:994][571]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.28.04:995][571]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2024.02.27-14.28.04:995][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008250s)
+[2024.02.27-14.28.05:042][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.02.27-14.28.05:060][571]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.28.05:074][571]LogInit: FAudioDevice initialized.
+[2024.02.27-14.28.05:114][571]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.28.05:120][571]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.28.05
+[2024.02.27-14.28.05:120][571]LogWorld: Bringing up level for play took: 0.005487
+[2024.02.27-14.28.05:133][571]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.28.05:135][571]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,804
+[2024.02.27-14.28.05:137][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.28.14:265][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.27-14.28.52:217][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.28.52:217][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.28.52:263][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.28.52:263][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.28.52:307][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.28.52:312][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.02.27-14.28.52:350][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2024.02.27-14.29.35:979][888]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.29.36:300][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.02.27-14.29.54:852][871]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.29.55:208][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2024.02.27-14.29.56:646][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.29.56:687][972]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_BlocksAD6BE190407E4E658ED896B4F21775EA.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.29.57:660][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.29.57:684][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.29.57:685][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.29.57:685][ 73]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:29:57)
+[2024.02.27-14.29.57:685][ 73]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.29.57:693][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007471s)
+[2024.02.27-14.29.57:693][ 73]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.29.57:693][ 73]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2024.02.27-14.29.57:693][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008172s)
+[2024.02.27-14.29.57:739][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2024.02.27-14.29.57:758][ 73]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.29.57:773][ 73]LogInit: FAudioDevice initialized.
+[2024.02.27-14.29.57:818][ 73]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.29.57:829][ 73]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.29.57
+[2024.02.27-14.29.57:830][ 73]LogWorld: Bringing up level for play took: 0.009051
+[2024.02.27-14.29.57:841][ 73]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.29.57:842][ 73]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,098
+[2024.02.27-14.29.57:842][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.30.27:505][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.30.27:505][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.30.27:554][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.30.27:555][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.30.27:600][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.30.27:605][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.27-14.30.27:656][589]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2024.02.27-14.30.30:060][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.02.27-14.31.02:385][336]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.31.02:710][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.02.27-14.31.42:831][485]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.31.43:170][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2024.02.27-14.32.25:198][954]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.32.25:539][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2024.02.27-14.32.32:375][619]BlueprintLog: New page: Compile BP_Blocks
+[2024.02.27-14.32.32:717][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.02.27-14.32.33:529][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Blocks" FILE="D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset" SILENT=true
+[2024.02.27-14.32.33:568][663]LogSavePackage: Moving 'D:/Home Work/UE_Home_Work/Module8/Saved/BP_Blocks88E2EF8E4507C52EAA88F3B3D0198089.tmp' to 'D:/Home Work/UE_Home_Work/Module8/Content/BP/BP_Blocks.uasset'
+[2024.02.27-14.32.35:482][868]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-14.32.35:505][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.32.35:505][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-14.32.35:505][868]PIE: New page: PIE session: My_map (27 февр. 2024 г., 20:32:35)
+[2024.02.27-14.32.35:505][868]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_My_map
+[2024.02.27-14.32.35:513][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007789s)
+[2024.02.27-14.32.35:513][868]LogAIModule: Creating AISystem for world My_map
+[2024.02.27-14.32.35:513][868]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2024.02.27-14.32.35:513][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/My_map.My_map to /Game/Map/UEDPIE_0_My_map.My_map (0.008512s)
+[2024.02.27-14.32.35:558][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.02.27-14.32.35:576][868]LogInit: XAudio2 using 'Динамики (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.02.27-14.32.35:592][868]LogInit: FAudioDevice initialized.
+[2024.02.27-14.32.35:631][868]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-14.32.35:645][868]LogWorld: Bringing World /Game/Map/UEDPIE_0_My_map.My_map up for play (max tick rate 0) at 2024.02.27-17.32.35
+[2024.02.27-14.32.35:646][868]LogWorld: Bringing up level for play took: 0.011380
+[2024.02.27-14.32.35:659][868]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.27-14.32.35:662][868]PIE: Play in editor start time for /Game/Map/UEDPIE_0_My_map -0,279
+[2024.02.27-14.32.35:663][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.32.41:896][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.02.27-14.33.03:994][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.33.03:994][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.33.04:052][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-14.33.04:053][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/My_map.My_map:PersistentLevel' has LevelScriptBlueprint '/Game/Map/My_map.My_map:PersistentLevel.My_map' with GeneratedClass '/Game/Map/My_map.My_map_C' with ClassGeneratedBy '/Game/Map/My_map.My_map:PersistentLevel.My_map'
+[2024.02.27-14.33.04:114][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-14.33.04:119][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.02.27-14.33.04:153][883]LogPlayLevel: Display: Destroying online subsystem :Context_168
