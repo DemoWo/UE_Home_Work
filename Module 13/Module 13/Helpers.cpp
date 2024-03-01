@@ -1,4 +1,7 @@
+#include <iostream>
+#include <math.h>
+
 int SquareSumm(int VariableFirst, int VariableTwo)
 {
-	return ( VariableFirst + VariableTwo ) * 2;
+	return std::pow( ( VariableFirst + VariableTwo ), 2 );
 }
