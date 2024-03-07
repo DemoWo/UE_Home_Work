@@ -1,0 +1,3 @@
+D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Definitions.Snake.h
+D:\Home Work\UE_Home_Work\Module20\Snake\Source\Snake\SnakeElementBase.h
+D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Inc\Snake\SnakeElementBase.generated.h

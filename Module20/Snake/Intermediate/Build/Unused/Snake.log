@@ -1,0 +1,16 @@
+﻿  Creating makefile for SnakeEditor (ini files are newer than makefile)
+  Parsing headers for SnakeEditor
+    Running UnrealHeaderTool "D:\Home Work\UE_Home_Work\Module20\Snake\Snake.uproject" "D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\SnakeEditor\Development\SnakeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SnakeEditor in 5,4172733 seconds
+  Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 6 processes...
+    [1/6] SnakeElementBase.cpp
+    [2/6] SnakeBase.cpp
+    [3/6] SnakeElementBase.gen.cpp
+    [4/6] UE4Editor-Snake.lib
+       ��������� ���������� D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\UE4Editor-Snake.lib � ������ D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\UE4Editor-Snake.exp
+    [5/6] UE4Editor-Snake.dll
+       ��������� ���������� D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\UE4Editor-Snake.suppressed.lib � ������ D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\UE4Editor-Snake.suppressed.exp
+    [6/6] SnakeEditor.target
+  Total time in Parallel executor: 1,32 seconds
+  Total execution time: 8,54 seconds

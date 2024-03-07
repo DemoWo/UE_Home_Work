@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Snake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\SnakeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\BP_PlayerPawn.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Snake.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeBase.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeElementBase.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeGameModeBase.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\BP_PlayerPawn.gen.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Snake.init.gen.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeBase.gen.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeElementBase.gen.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\SnakeGameModeBase.gen.cpp.obj"
+"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Default.rc2.res"
+/OUT:"D:\Home Work\UE_Home_Work\Module20\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\UE4Editor-Snake.lib"
+/INCLUDE:IMPLEMENT_MODULE_Snake
