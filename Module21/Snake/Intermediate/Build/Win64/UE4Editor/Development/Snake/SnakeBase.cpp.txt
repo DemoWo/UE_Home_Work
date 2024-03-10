@@ -1,0 +1,7 @@
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Definitions.Snake.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Source\Snake\SnakeBase.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Inc\Snake\SnakeBase.generated.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Source\Snake\SnakeElementBase.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Source\Snake\Interactable.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Inc\Snake\Interactable.generated.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Inc\Snake\SnakeElementBase.generated.h

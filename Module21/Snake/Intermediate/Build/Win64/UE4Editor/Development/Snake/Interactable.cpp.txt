@@ -1,0 +1,3 @@
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Development\Snake\Definitions.Snake.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Source\Snake\Interactable.h
+D:\Home Work\UE_Home_Work\Module21\Snake\Intermediate\Build\Win64\UE4Editor\Inc\Snake\Interactable.generated.h
